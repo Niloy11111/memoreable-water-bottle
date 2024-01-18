@@ -6,7 +6,7 @@ function App() {
   return (
     <>
       <h1>Memorable water </h1>
-      <p>Desired drinks</p>
+      <p>Lets dry bottle drink</p>
       <Header></Header>
       <Bottles></Bottles>
     </>
